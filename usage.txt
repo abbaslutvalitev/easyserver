@@ -1,0 +1,1 @@
+Paste the “easyserver.py”  to your project folder and run.If you want to test run the "easyserver.py" and test

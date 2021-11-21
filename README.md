@@ -8,3 +8,10 @@ For easyserver you need: Python (preferably above 3.8) if you have python 2 then
 Execute these commands which were mentioned above
 
 [![Screen-Shot-2021-11-21-at-15-28-18.png](https://i.postimg.cc/VNqWtzqK/Screen-Shot-2021-11-21-at-15-28-18.png)](https://postimg.cc/Z9qNttDN)
+After you have completed these commands, you can start working
+I created a folder where there is an index.html file also I installed easyserver
+
+[![Screen-Shot-2021-11-21-at-15-34-30.png](https://i.postimg.cc/0jnk3WTY/Screen-Shot-2021-11-21-at-15-34-30.png)](https://postimg.cc/MfcJfDKH)
+Following the instructions in the usage .txt file, move "easyserver .py" to your project folder.
+
+[![Screen-Shot-2021-11-21-at-15-36-43.png](https://i.postimg.cc/NMPb4BMm/Screen-Shot-2021-11-21-at-15-36-43.png)](https://postimg.cc/Q91pNLcd)
